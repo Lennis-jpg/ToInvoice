@@ -1,4 +1,4 @@
 const iframe = document.createElement('iframe');
     iframe.className = 'fullscreen-iframe';
-    iframe.src = 'https://www.toinvoice.org'; 
+    iframe.src = 'https://toinvoice.org'; 
     document.body.appendChild(iframe);
