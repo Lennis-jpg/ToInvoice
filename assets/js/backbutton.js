@@ -4,5 +4,5 @@
 
       window.addEventListener('popstate', function () {
       history.pushState(null, null, location.href);
-      alert("You can not go back to the dashboard back without logging.");
+      alert("You can’t go back to the dashboard without selecting a sign in ");
   });
