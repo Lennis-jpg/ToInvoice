@@ -1,5 +1,5 @@
 
-      // Prevent back navigation useful if user clicks back button after single email sign in 
+      // Prevent back navigation useful if user clicks back button after single email sign out 
       history.pushState(null, null, location.href);
 
       window.addEventListener('popstate', function () {
