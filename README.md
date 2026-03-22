@@ -18,8 +18,8 @@ The platform is designed with the following features:
 
 ### Architecture
 
-This project is a website built with HTML, CSS and JavaScript.  
-
+This project is a website built with HTML, CSS and JavaScript. The project has two versions free/standard and Premium. 
+ 
 *   The free/standard version of the application is loaded from `https://toinvoice.org`.
 *   The premium version is loaded from `https://toinvoice.online`.
 
