@@ -53,7 +53,7 @@ To view the website locally, you can follow these steps:
     ```
 3.  Open the `index.html` file in your preferred web browser.
 
-For a more complete experience that respects the clean URL configuration, you can use a simple local web server. If you have Python installed, you can run:
+For a more complete experience that respects the clean URL configuration, you can use a local web server. If you have Python installed, you can run:
 
 ```bash
 # For Python 3
