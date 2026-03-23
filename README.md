@@ -1,4 +1,4 @@
-# ToInvoice 
+# ToInvoice  
 
 This repository contains the source code for the public-facing website of ToInvoice, an invoicing platform designed for quick invoice generation on the go or in an office. The site includes the landing page, pricing information, and legal documents.
 
