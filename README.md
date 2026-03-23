@@ -4,7 +4,7 @@ This repository contains the source code for the public-facing website of ToInvo
 
 ## About The Project
 
-ToInvoice is an invoicing platform built with secure and user-friendly features. This repository hosts the static front-end which served as the entry point for users to access the application. The core application itself is loaded via an `<iframe>` from external domains.
+ToInvoice is an invoicing platform built with secure and user-friendly features. This repository hosts the static front-end that serves as the entry point for users to access the application. The core application itself is loaded via an `<iframe>` from external domains.
 
 ### Features
 
