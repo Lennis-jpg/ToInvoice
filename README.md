@@ -37,7 +37,7 @@ The main files and directories in this repository are:
     *   `js/`: JavaScript files for loading iframes and handling UI logic.
     *   `images/`: Contains logos and other image assets.
 *   **`vercel.json`**: Deployment configuration for Vercel.
-*   **`.htaccess`**: Apache server configuration for URL rewriting, likely for a previous deployment environment.
+*   **`.htaccess`**: Apache server configuration for URL rewriting, for deployment environment.
 
 ## Running Locally
 
